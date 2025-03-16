@@ -38,6 +38,7 @@ NeuroVoice is a lightweight, browser-based text-to-speech application built with
 
 # 🖥 Browser Compatibility
 NeuroVoice works best on these browsers:
+
 🔹 Chrome (recommended)
 
 🔹 Brave
