@@ -47,5 +47,7 @@ NeuroVoice works best on these browsers:
 
 🔹 Opera
 
+**NOTE: Using multiple voices in a phone's text-to-audio conversion by default is not typically supported. So please try this out on your laptop/PC.**
+
 # 📜 License
 This project is licensed under the **MIT License.**
