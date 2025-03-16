@@ -30,7 +30,9 @@ NeuroVoice is an innovative text-to-audio generation tool that converts your tex
 
 # 🔧 Installation & Setup
 > git clone https://github.com/yourusername/neurovoice.git
+
 cd neurovoice
+
 open index.html
 
 # 🖥 Browser Compatibility
