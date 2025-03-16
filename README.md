@@ -1,8 +1,8 @@
 # 📌 NeuroVoice
-
+NeuroVoice is an innovative text-to-audio generation tool that converts your texts into expressive sounds. Convert written text into natural-sounding audio without server-side processing.
 
 # 📝 Overview
-NeuroVoice is an innovative text-to-audio generation tool that converts your texts into expressive sounds. Convert written text into natural-sounding audio without server-side processing.
+NeuroVoice is a lightweight, browser-based text-to-speech application built with HTML, CSS, and JavaScript.This tool converts written text into natural-sounding speech directly in your browser without requiring server-side processing. Featuring multiple voice options, NeuroVoice offers a simple yet powerful solution for generating spoken content from text.
 
 # 🚀 Features
 ✅ **No Dependencies:** Built with HTML, CSS and JavaScript
