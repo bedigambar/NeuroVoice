@@ -45,3 +45,6 @@ NeuroVoice works best on these browsers:
 🔹 Edge
 
 🔹 Opera
+
+# 📜 License
+This project is licensed under the **MIT License.**
