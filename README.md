@@ -6,7 +6,9 @@ NeuroVoice is an innovative text-to-audio generation tool that converts your tex
 
 # 🚀 Features
 ✅ **No Dependencies:** Built with HTML, CSS and JavaScript
+
 ✅ **Pure Frontend Implementation:** Runs entirely in the browser
+
 ✅ **Voice Options:** Multiple voice types to choose from
 ✅ **Responsive Design:** Works seamlessly on desktop and mobile devices
 ✅ **Many options to choose from:** Multiple voice options
