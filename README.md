@@ -26,7 +26,7 @@ NeuroVoice is a lightweight, browser-based text-to-speech application built with
 
 🔹 **Web Speech API:** Core speech synthesis functionality
 
-# <ins>Live demo:</ins>
+# <ins>🪧Live demo:</ins>
 [NeuroVoice]()
 
 # 🔧 Installation & Setup
