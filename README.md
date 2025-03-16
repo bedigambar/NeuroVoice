@@ -30,7 +30,7 @@ NeuroVoice is a lightweight, browser-based text-to-speech application built with
 [NeuroVoice]()
 
 # 🔧 Installation & Setup
-> git clone https://github.com/yourusername/neurovoice.git
+> git clone https://github.com/bedigambar/NeuroVoice
 
 >cd neurovoice
 
