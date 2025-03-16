@@ -1,10 +1,10 @@
-#📌 NeuroVoice
+# 📌 NeuroVoice
 
 
-#📝 Overview
+# 📝 Overview
 NeuroVoice is an innovative text-to-audio generation tool that converts your texts into expressive sounds. Convert written text into natural-sounding audio without server-side processing.
 
-#🚀 Features
+# 🚀 Features
 ✅ **No Dependencies:** Built with HTML, CSS and JavaScript
 ✅ **Pure Frontend Implementation:** Runs entirely in the browser
 ✅ **Voice Options:** Multiple voice types to choose from
@@ -13,19 +13,19 @@ NeuroVoice is an innovative text-to-audio generation tool that converts your tex
 ✅ **Text functionality:** Copy-paste text functionality
 ✅ **Offline Capability:** Can function without internet connection (after initial load)
 
-#🏗 Technology
+# 🏗 Technology
 🔹 **HTML Audio:** Audio playback and control
 🔹 **CSS Flexbox:** Creates responsive, modern UI
 🔹 **Web Speech API:** Core speech synthesis functionality
 
 <ins>Live demo:</ins> [NeuroVoice]()
 
-#🔧 Installation & Setup
+# 🔧 Installation & Setup
 > git clone https://github.com/yourusername/neurovoice.git
 cd neurovoice
 open index.html
 
-#🖥 Browser Compatibility
+# 🖥 Browser Compatibility
 NeuroVoice works best on these browsers:
 🔹 Chrome (recommended)
 🔹 Brave
