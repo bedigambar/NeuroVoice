@@ -26,7 +26,7 @@ NeuroVoice is a lightweight, browser-based text-to-speech application built with
 
 🔹 **Web Speech API:** Core speech synthesis functionality
 
-# <ins>🪧Live demo:</ins>
+# <ins>🪧 Live demo:</ins>
 [NeuroVoice](https://neurovoice.netlify.app/)
 
 # 🔧 Installation & Setup
@@ -47,7 +47,7 @@ NeuroVoice works best on these browsers:
 
 🔹 Opera
 
-**⚠️ NOTE: Using multiple voices in a phone's text-to-audio conversion by default is not typically supported. So please try this out on your laptop/PC.**
+**⚠️ NOTE: Using multiple voices in a smartphone's text-to-audio conversion by default is not typically supported. So please try this out on your laptop/PC.**
 
 # 📜 License
 This project is licensed under the **MIT License.**
