@@ -50,4 +50,4 @@ NeuroVoice works best on these browsers:
 **⚠️ NOTE: Using multiple voices in a smartphone's text-to-audio conversion by default is not typically supported. Therefore, I would be most grateful if you would consider evaluating this application on your personal computer or workstation, where the full range of voice capabilities can be properly experienced and utilized.**
 
 # 📜 License
-This project is licensed under the **MIT License.**
+This project is licensed under the **MIT License.(https://github.com/bedigambar/NeuroVoice/blob/main/LICENSE)**
